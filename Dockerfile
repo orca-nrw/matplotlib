@@ -19,3 +19,4 @@ WORKDIR ${HOME}
 USER ${USER}
 
 COPY README.md /home/${NB_USER}
+COPY index.ipynb /home/${NB_USER}
