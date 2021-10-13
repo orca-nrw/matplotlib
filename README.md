@@ -1,4 +1,5 @@
-# matplotlib
+# Visualisierungen mit matplotlib
+In diesem Module lernen Sie einfache Diagramme wie Liniendiagramme oder Balkendiagramme mit Python und der Bibliothek Matplotlib erstellen.
 
 
 Lektion starten: 
