@@ -22,4 +22,4 @@ docker run -p 8888:8888 lmmatplotlib:1.0
 
 Dieses Lernmodul wurde von Björn Salgert im Rahmen des EILD.nrw-Projektes an der Hochschule Düsseldorf erstellt, nähre Informationen unter [eild.nrw](https://eild.nrw). Das Lernmodul kann unter foldender [Lizenz](https://github.com/orca-nrw/lm-database-with-python/blob/master/LICENSE) genutzt werden.
 
-<img src="https://github.com/orca-nrw/lm-database-with-python/raw/master/logos.jpg)https://github.com/orca-nrw/lm-database-with-python/raw/master/logos.jpg" alt="logos" />
+<img src="https://github.com/orca-nrw/lm-database-with-python/raw/master/logos.jpg" alt="logos" />
