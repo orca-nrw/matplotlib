@@ -15,7 +15,7 @@ Schlagworte: EILD.nrw, Datenbanksysteme, Datenbank, Diagramme, Jupyter Notebook,
 
 ### Lernmodul im Browser starten: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fprojectbase.medien.hs-duesseldorf.de%2Feild.nrw-module%2Fmatplotlib/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/orca-nrw/matplotlib/HEAD?urlpath=notebooks/index.ipynb)
 
 ### Lernmodul über Docker starten
 
